@@ -8,7 +8,7 @@ and execute the following command structure:
 
 	ultragrep [-v] [folder] [regexstring] [extensions]
 	
-### Note	:	Do not include the square brackets [] for the above commands
+### Note	:	Do not include the square brackets [] for the above command
 	
 ### Example ###
 
