@@ -8,12 +8,11 @@ and execute the following command structure:
 
 	ultragrep [-v] [folder] [regexstring] [extensions]
 	
+### Note	:	Do not include the square brackets [] for the above commands
+	
 ### Example ###
 
 	ultragrep -v "C:/file/path/to/documents" [Hh]ello .txt.rtf
-	
-	
-# Note	:	Do not include the square brackets [] for the above commands
 	
 	
 ### Parameters ###
